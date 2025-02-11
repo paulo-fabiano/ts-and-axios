@@ -1,0 +1,27 @@
+{
+  "name": "ts-and-axios",
+  "version": "1.0.0",
+  "description": "Aqui estão alguns exercícios para você treinar a manipulação de requisições com TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "compile": "npx tsc src/index.ts",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulo-fabiano/ts-and-axios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulo-fabiano/ts-and-axios/issues"
+  },
+  "homepage": "https://github.com/paulo-fabiano/ts-and-axios#readme",
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
+}
